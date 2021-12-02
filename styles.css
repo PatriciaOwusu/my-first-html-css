@@ -1,0 +1,31 @@
+/* tag based selector */
+body {
+    color: black;
+    background-color: khaki;
+    font-family: garamond, serif;
+    font-size: 1.2em;
+}
+h1 { 
+    color: red;
+    font-family: brush script MT, cursive;
+}
+
+    h2 { color: purple;
+
+    }
+
+/* id based selector */
+#html-anatomy-heading {color: chocolate;}
+
+/* class based selector */
+.underline { text-decoration: underline;}
+
+.bold {
+     font-weight: bold;
+     font-size: 1.2em;
+    }
+
+#intro-ps {
+    font-style: italic;
+    font-size: 0.9em;
+}
